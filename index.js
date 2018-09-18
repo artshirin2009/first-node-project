@@ -94,6 +94,7 @@ let da = 'da';
     .then((newData) => console.log(newData)))
 
 /**fhgvghh fghjgj */
-/**sdsaf */
-/**New branch */
-/*sdcsdcsdc csdcsdcsd csdcdscdscsdcsd*/
+
+
+
+/**Commit from branch new function*/
