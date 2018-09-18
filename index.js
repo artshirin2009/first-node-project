@@ -99,3 +99,5 @@ let da = 'da';
 /**Commit from branch new function*/
 
 /**Commit form branch master final */
+
+/**2-nd merging */
