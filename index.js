@@ -92,9 +92,3 @@ let da = 'da';
     .then((data) => newData.push(typeof(data)))
     .then((da) => newData.push('hi'))
     .then((newData) => console.log(newData)))
-
-/**vsvsdv vsdvsdv */
-/**vsvsdv vsdvsdv */
-/**vsvsdv vsdvsdv */
-/**vsvsdv vsdvsdv */
-/**vsvsdv vsdvsdv */
