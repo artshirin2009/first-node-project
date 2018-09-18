@@ -101,3 +101,5 @@ let da = 'da';
 /**Commit form branch master final */
 
 /**2-nd merging */
+
+/** Trying to solve problems */
